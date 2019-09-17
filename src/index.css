@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+html {
+  padding-left: 300px;
+}
+
+@media only screen and (max-width : 992px) {
+  html{
+    padding-left: 0;
+  }
+}
+
+/* Materialize*/
+.carousel.carousel-slider {
+  height: 100vh !important;
+}
+.carousel.carousel-slider .carousel-item{
+  padding: 20px;
+}
+.input-field{
+  margin-top: 1.8rem !important;
+}
+.switch {
+  padding-top: 1vw;
+  padding-left: 5vw;
+}
+input[type='date'] {
+  width: 150px !important;
+}
+
+

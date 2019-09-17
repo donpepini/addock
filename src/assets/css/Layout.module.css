@@ -1,0 +1,21 @@
+/* Nav component */
+.navBar {
+    background-color: white;
+}
+nav ul a {
+  color: #1a1647;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/* Navtabs component */
+.tab {
+    color: #1a1647;
+    padding-top: 20px;
+    background-color: rgb(235, 231, 231);
+}
+
+/* SideNav component */
+.sideNav {
+  background-color: #1a1647
+}

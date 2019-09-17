@@ -1,0 +1,25 @@
+/* CreateForm, EditForm component */
+.form {
+    margin-top: 5px;
+    background-color: white;
+    padding: 15px;
+}
+
+/* FormAddProducts, FormDate component */
+.marginTop {
+    margin-top: 40px
+}
+.addProduct {
+    cursor: pointer;
+    font-size: 20px;
+}
+
+/* Form description */
+.textArea {
+    height: 52px !important;
+}
+
+/* FormProducts */
+.marginTop20 {
+    margin-top: 20px
+}

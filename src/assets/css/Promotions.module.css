@@ -1,0 +1,43 @@
+/* Packages, Periodicals component */
+.table {
+    background-color: white;
+    border-radius: 10px;
+}
+.thead {
+    background-color: #1a1647;
+    color: white;
+}
+th {
+    padding: 15px;
+    text-align: center;
+}
+
+/* PromotionDetails component */
+td {
+    padding: 15px;
+    text-align: center;
+}
+.icons {
+    width: 20px;
+}
+.iconEdit, .iconDelete{
+    width: 15px;
+    cursor: pointer;
+}
+
+/* EditPromotion, CreatePromotion component */
+.edit {
+    padding: 15px;
+    background-color: rgb(235, 231, 231);
+    height: 150vh;
+}
+.iconBack {
+    width: 20px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+
+
+
+
